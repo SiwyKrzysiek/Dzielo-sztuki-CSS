@@ -1,6 +1,14 @@
 body {
     background-color: rgb(221, 149, 40);
 }
+
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
+}
   
 #canvas {
     width: 400px;
@@ -11,6 +19,7 @@ body {
 }
 
 #two-left-squares {
+    display: inline-block;
     height: 75%;
     width: 22%;
     background-color: aqua; /*TMP*/
@@ -32,6 +41,13 @@ body {
     height: 48%;
     width: 100%;
     background-color: white;
+}
+
+.black-vertical-line {
+    
+    height: 100%;
+    width: 17%;
+    background-color: black;
 }
   
   /*
