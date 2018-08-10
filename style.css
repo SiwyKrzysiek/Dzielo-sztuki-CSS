@@ -9,6 +9,14 @@ body {
 .white {
     background-color: white;
 }
+
+.blue {
+    background-color: rgb(30, 88, 247);
+}
+
+.yellow {
+    background-color: yellow;
+}
   
 #canvas {
     width: 400px;
@@ -22,25 +30,21 @@ body {
     display: inline-block;
     height: 75%;
     width: 22%;
-    background-color: aqua; /*TMP*/
 }
 
-#top-left-white-square {
+#top-left-square {
     height: 42%;
     width: 100%;
-    background-color: white;
 }
 
-#top-left-thick-black-bar {
+#top-left-thick-bar {
     height: 10%;
     width: 100%;
-    background-color: black;
 }
 
-#middle-left-white-square {
+#middle-left-square {
     height: 48%;
     width: 100%;
-    background-color: white;
 }
 
 .black-vertical-line {
