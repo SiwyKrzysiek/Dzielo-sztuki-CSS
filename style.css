@@ -17,6 +17,10 @@ body {
 .yellow {
     background-color: yellow;
 }
+
+.red {
+    background-color: red;
+}
   
 #canvas {
     width: 400px;
@@ -55,6 +59,12 @@ body {
 .vertical-line {
     height: 100%;
     width: 3%;
+    float: left;
+}
+
+#big-rectangle {
+    height: 100%;
+    width: 75%;
     float: left;
 }
   
