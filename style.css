@@ -26,9 +26,13 @@ body {
     box-shadow: 17px 17px 10px gray;
 }
 
-#two-left-squares {
-    display: inline-block;
+#first-row {
     height: 75%;
+    width: 100%;
+}
+
+#two-left-squares {
+    height: 100%;
     width: 22%;
 }
 
