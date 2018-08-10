@@ -86,13 +86,13 @@ body {
 
 #middle-bottom-square {
     height: 100%;
-    width: 60%;
+    width: 64%;
     float: left;
 }
 
 #bottom-right-squares {
     height: 100%;
-    width: 12%;
+    width: 8%;
     float: left;
 }
 
