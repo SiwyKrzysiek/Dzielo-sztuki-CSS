@@ -34,6 +34,7 @@ body {
 #two-left-squares {
     height: 100%;
     width: 22%;
+    float: left;
 }
 
 #top-left-square {
@@ -51,11 +52,10 @@ body {
     width: 100%;
 }
 
-.black-vertical-line {
-    
+.vertical-line {
     height: 100%;
-    width: 17%;
-    background-color: black;
+    width: 3%;
+    float: left;
 }
   
   /*
