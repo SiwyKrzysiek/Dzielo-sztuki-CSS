@@ -72,6 +72,23 @@ body {
     height: 3%;
     width: 100%;
 }
+
+#second-row {
+    height: 22%;
+    width: 100%;
+}
+
+#bottom-left-square {
+    height: 100%;
+    width: 22%;
+    float: left;
+}
+
+#middle-bottom-square {
+    height: 100%;
+    width: 60%;
+    float: left;
+}
   
   /*
   #first-row {
