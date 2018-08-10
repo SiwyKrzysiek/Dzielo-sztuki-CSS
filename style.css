@@ -67,6 +67,11 @@ body {
     width: 75%;
     float: left;
 }
+
+#divider {
+    height: 3%;
+    width: 100%;
+}
   
   /*
   #first-row {
