@@ -17,15 +17,21 @@ body {
 }
 
 #top-left-white-square {
-    height: 40%;
+    height: 42%;
     width: 100%;
     background-color: white;
 }
 
-.thick-black-bar {
-    height: 20px;
-    width: 100;
-    color: black;
+#top-left-thick-black-bar {
+    height: 10%;
+    width: 100%;
+    background-color: black;
+}
+
+#middle-left-white-square {
+    height: 48%;
+    width: 100%;
+    background-color: white;
 }
   
   /*
