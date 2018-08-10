@@ -89,7 +89,33 @@ body {
     width: 60%;
     float: left;
 }
-  
+
+#bottom-right-squares {
+    height: 100%;
+    width: 12%;
+    float: left;
+}
+
+.bottom-right-squares {
+    height: 40%;
+    width: 100%;
+}
+
+#first-right-small-square {
+    height: 40%;
+    width: 100%;
+}
+
+#bottom-right-thick-bar {
+    height: 20%;
+    width: 100%;
+}
+
+#second-right-small-square {
+    height: 40%;
+    width: 100%;
+}
+
   /*
   #first-row {
     height: 75%;  
